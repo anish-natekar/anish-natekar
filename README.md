@@ -13,6 +13,5 @@ Currently:
 - 🤔 I’m looking for help with Building my first website and Flutter App.
 - 💬 Ask me about Python + libraries, OpenCV, Discord bots, Game dev, Cryptography, Arduino, Frontend, Flutter, ROS(RobotOperatingSystem).
 - 📫 How to reach me: email me on **anish.natekar.20031@iitgoa.ac.in**
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ANIME is OP!!!
 
