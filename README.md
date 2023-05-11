@@ -7,10 +7,7 @@ Currently:
 - Working with quadcopters
 - Interning at Mentor Graphics
 
-- 🔭 I’m currently working with Flutter, Website Frontend and Python libraries
-- 🌱 I’m currently exploring EVERYTHING computer science has to offer e.g. Web dev, App Dev, Game Dev, Block chaim, ML&DL, Simulations, Robotics (Arduino & ROS), Cybersecurity & Cryptography.
-- 👯 I’m looking to collaborate on Building a listing website/ social media which maybe decentralised.
-- 🤔 I’m looking for help with Building my first website and Flutter App.
+- 🌱 I’m currently exploring EVERYTHING computer science has to offer e.g. Web dev, App Dev, Game Dev, Block chaim, ML&DL, Simulations, Robotics (Arduino & ROS), Cybersecurity & Cryptography
 - 💬 Ask me about Python + libraries, OpenCV, Discord bots, Game dev, Cryptography, Arduino, Frontend, Flutter, ROS(RobotOperatingSystem).
 - 📫 How to reach me: email me on **anish.natekar.20031@iitgoa.ac.in**
 - ⚡ Fun fact: ANIME is OP!!!
