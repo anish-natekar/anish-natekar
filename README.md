@@ -5,7 +5,7 @@ My name is Anish Natekar, I am a 4th year (Senior) student at IIT Goa Majoring i
 Currently:
 - Student Representative of BTech 2020 batch of IIT Goa.
 - Working with quadcopters
-- Interning at Mentor Graphics
+- Interning at Mentor Graphics (Noida, India)
 
 - 🌱 I’m currently exploring EVERYTHING computer science has to offer e.g. Web dev, App Dev, Game Dev, Block chaim, ML&DL, Simulations, Robotics (Arduino & ROS), Cybersecurity & Cryptography
 - 💬 Ask me about Python + libraries, OpenCV, Discord bots, Game dev, Cryptography, Arduino, Frontend, Flutter, ROS(RobotOperatingSystem).
