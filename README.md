@@ -1,9 +1,8 @@
 ### Hi there people 👋
 
-My name is Anish Natekar, I am a 4th year (Senior) student at IIT Goa Majoring in Computer Science Engineering. I am interested in Automating things and solving real world problems with the help of Technology and Engineering.
+My name is Anish Natekar, I am interested in Automating things and solving real world problems with the help of Technology and Engineering.
 
-Currently:
-- Student Representative of BTech 2020 batch of IIT Goa.
+- Ex Student Representative of BTech 2020 batch of IIT Goa.
 - Was working with quadcopters. Now working in Gen AI.
 - Ex Intern at Mentor Graphics (Noida, India)
 - Researcher at Tata Consultancy Services Research (Pune, India)
