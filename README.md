@@ -4,11 +4,13 @@ My name is Anish Natekar, I am a 4th year (Senior) student at IIT Goa Majoring i
 
 Currently:
 - Student Representative of BTech 2020 batch of IIT Goa.
-- Working with quadcopters
-- Interning at Mentor Graphics (Noida, India)
+- Was working with quadcopters. Now working in Gen AI.
+- Ex Intern at Mentor Graphics (Noida, India)
+- Researcher at Tata Consultancy Services Research (Pune, India)
 
+- 📫 How to reach me: email me on **anishsanishungry@gmail.com**
+
+Back in college I liked tinkering with stuff now I trying to do research on the cutting edge of Gen AI:
 - 🌱 I’m currently exploring EVERYTHING computer science has to offer e.g. Web dev, App Dev, Game Dev, Block chaim, ML&DL, Simulations, Robotics (Arduino & ROS), Cybersecurity & Cryptography
 - 💬 Ask me about Python + libraries, OpenCV, Discord bots, Game dev, Cryptography, Arduino, Frontend, Flutter, ROS(RobotOperatingSystem).
-- 📫 How to reach me: email me on **anish.natekar.20031@iitgoa.ac.in**
-- ⚡ Fun fact: ANIME is OP!!!
 
